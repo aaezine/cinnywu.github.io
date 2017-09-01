@@ -1,9 +1,10 @@
-<!DOCTYLE html>
-  <head>
-    <title>Cindy Wu</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-  </head>
-  
+<!DOCTYPE html>
+<head>
+  <title>TEST</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="jquery-1.12.4.min.js"></script>
+  <script src="js/test.js"></script>
+</head>
   <body bgcolor="yellow">
     <div id="main">
       <div id="header">
@@ -13,12 +14,10 @@
 	<a href="test.html">Test</a>
       </div>
       <div id="middle">
-	<h1>Hello and welcome to my page.</h1>
       </div>	
       <div id="foot">
       </div>
+      
     </div>
   </body>
-  
 </html>
-  
