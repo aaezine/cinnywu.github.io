@@ -2,6 +2,9 @@ h1 {
     font-size: 100px;
     margin: 0px;
 }
+body {
+    background: #F0FFF0;
+}
 #main {
     width: 1000px;
     margin: auto;
@@ -9,7 +12,7 @@ h1 {
 }
 #header {
     height: 60px;
-    background: pink;
+    background: white;
 }
 #navbar {
     height: 40px;
@@ -17,9 +20,9 @@ h1 {
 }
 #middle {
     height: 600px;
-    background: cyan;
+    background: white;
 }
 #foot {
     height: 100px;
-    background: orange;
+    background: black;
 }
